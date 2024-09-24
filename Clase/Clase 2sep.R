@@ -30,3 +30,9 @@ SpLpro <- subset(conjunto, conjunto$Altura <= mean(conjunto$Altura))
 
 #saber el valor atipico de la boxplot de altura
 which(conjunto$Altura>20)
+
+#los datos se encuentran en en las filas 18 y 24
+conjunto[c(18,24),]
+
+#para ver de la 18 a la 24
+conjunto[18:24,]
