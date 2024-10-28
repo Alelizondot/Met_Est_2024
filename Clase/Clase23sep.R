@@ -53,6 +53,8 @@ abline(h=5.7, col= "green", lwd=3, lty = "dotdash")
 #Ahora la media teorica es de 5.78
 t.test(semillas$Peso, mu = 5.78)
 
+#
+
 #p-value = 0.06033, es mayor que a=0.05 entonces entra en H0, no hay diferencia
 #significativa
 
