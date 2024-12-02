@@ -9,8 +9,7 @@ Datos_pseo<- read.csv("C:/Repositorios/Met_Est_2024/Clase/tabla_E1.csv", header 
 #NUESTAR HIPOTESIS ALTERNATIVA ES QUE LA MEDIA DEL GRUPO 1 ES MAYOR A LA DEL GRUPO 2
 #se usaría "alternative = greater" en vez de "alternative = less"
 
-#se usara una prueba de normalidad, si sale quen o es normal no hay problema pq son pocos datos en este caso
-shapiro.test()
+#se usara una prueba de normalidad, si sale quen o es normal no hay problema pq son pocos datos en este caso shapiro.test()
 
 #media de la altura de plantas sin micorrizas = 20.8 
 mean (Datos_pseo$Grupo_1)
@@ -58,3 +57,4 @@ t.test(Datos_E2$Layer_1, Datos_E2$Layer_2, paired=T, alternative= "less")
 
 
 #si a=0.05 y p-value = 0.1718, entonces a<p-value se rechaza hipotesis nula y significa que no hay diferencia significativa,
+

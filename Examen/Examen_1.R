@@ -26,13 +26,13 @@ t.test(parcelas$Diámetro)
 
 #hacemos un subset de parcela A y otro de parcela B
 #seleccionar las parcelas A mediante subset (Subconjunto)
-parcela_A<- subset (parcelas, parcelas$Parcelas == "Parcela A")
+parcela_A <- subset (parcelas, parcelas$Parcelas == "Parcela A")
 
 #sacamos media de DAP de parcelas A = 8.44
 mean(parcela_A$Diámetro)
 
 #seleccionar las parcelas B mediante subset (Subconjunto)
-parcela_B<- subset(parcelas, parcelas$Parcelas != "Parcela A")
+parcela_B <- subset(parcelas, parcelas$Parcelas != "Parcela A")
 
 #sacamos media de DAP de parcelas B = 9.318
 mean(parcela_B$Diámetro)

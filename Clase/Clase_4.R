@@ -34,4 +34,4 @@ t.test (madera$Peso_g~madera$Especie, var.equal= F)
 
 #VARIABLE LADO C
 boxplot(madera$Lado_C~ madera$Especie)
-wich 
+
