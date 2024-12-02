@@ -1,3 +1,8 @@
+#Clase 5 Parte 2
+#Alejandra Elizondo Trejo
+#1847945
+#23/09/2024
+
 #Prueba de pendientes, muestras dependientes
 #mismos idnividuos medidos en dos tiempos diferentes
 #(2012 vs 2013) producción de semillas

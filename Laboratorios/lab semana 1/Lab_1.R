@@ -1,7 +1,8 @@
+#Laboratorio 1
 #Alejandra Elizondo Trejo
 #1847945
 #20/08/2024
-#Laboratorio 1
+
 
 #Gastos totales
 300+240+1527+400+1500+1833

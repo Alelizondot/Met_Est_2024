@@ -1,3 +1,7 @@
+#Clase 2
+#Alejandra Elizondo Trejo
+#1847945
+#02/09/2024
 conjunto<- read.csv("C:/Repositorios/Met_Est_2024/Tareas/DATOS_HW02.csv")
 
 conjunto$Especie<- as.factor (conjunto$Especie)

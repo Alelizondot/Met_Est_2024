@@ -1,5 +1,8 @@
+#Clase 8
 #Alejandra Elizondo Trejo
 #1847945
+#12/11/2024
+
 #Analisis de varianza (ANOVA)
 #Experimento de cuatro parajes y sus diámetros
 

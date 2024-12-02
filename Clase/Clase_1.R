@@ -1,6 +1,8 @@
+#Clase 1
 #Alejandra Elizondo Trejo
 #1847945
 #20/08/2024
+
 
 # Problema 1--------------------------------------------------
 #Ingresar en objetos la superficie (hectareas) reforestada por especie

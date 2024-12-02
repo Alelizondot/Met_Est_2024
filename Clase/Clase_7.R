@@ -1,6 +1,9 @@
-  #correlation, Alejandra Elizondo Trejo
+#Clase 7
+#Alejandra Elizondo Trejo
 #1847945
-#CLASE 22 OCTUBRE PARTE 1
+#22/10/2024
+
+#Correlacion
 
 #USANDO CUARTETOS DE ANSCOMBE
 

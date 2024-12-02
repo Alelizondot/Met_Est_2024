@@ -1,3 +1,8 @@
+#Clase 6
+#Alejandra Elizondo Trejo
+#1847945
+#15/10/2024
+
 #Ejercicio1
 Datos_pseo<- read.csv("C:/Repositorios/Met_Est_2024/Clase/tabla_E1.csv", header = T)
 #NUESTRA HIPOTESIS NULA ES QUE LA MEDIA DEL GRUPO 1 Y DEL 2 ES IGUAL

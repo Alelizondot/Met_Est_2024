@@ -1,6 +1,8 @@
+#Laboratorio 2
 #1847945
 #Alejandra Elizondo Trejo
-#LabSemana3
+#27/08/24
+
 
 #PARTE1: IMPORTAR DATOS
 #Importar archivo csv

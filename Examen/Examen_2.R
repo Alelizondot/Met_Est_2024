@@ -1,6 +1,7 @@
 #Examen parcial 2
 #Alejandra Elizondo Trejo
 #1847945
+#11/11/24
 
 #Codigo pregunta 15 y 16
 set.seed(42) #para productividad

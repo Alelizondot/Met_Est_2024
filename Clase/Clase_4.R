@@ -1,3 +1,8 @@
+#Clase 4
+#Alejandra Elizondo Trejo
+#1847945
+#10/09/2024
+
 #importar datos de github
 read.csv("https://raw.githubusercontent.com/mgtagle/Met_Est_2024/main/Datos_Madera_MET.csv")
 madera<-read.csv("https://raw.githubusercontent.com/mgtagle/Met_Est_2024/main/Datos_Madera_MET.csv", header = T)

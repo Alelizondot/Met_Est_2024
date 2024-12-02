@@ -1,6 +1,9 @@
-#Regresión líneal
+#Clase 8
 #Alejandra Elizondo Trejo
-read.csv(erupciones.csv)
+#1847945
+#28/10/2024
+
+#Regresión líneal
 geyser<- read.csv("C:/Repositorios/Met_Est_2024/Clase/erupciones.csv", 
                   header = T)
 #primero se identifica cual es la independiente y la dependiente, despues se 
@@ -31,7 +34,10 @@ cor.test(geyser$eruptions,geyser$waiting)
 #4 Que los datos tengan una distribución normal
 
 #para colocar "~" es AltGr + la tecla donde esta
+#primero va la variable y y despues x, es para obtener la línea de tendencia central
 lm(geyser$eruptions~ geyser$waiting)
+
+#guardamos los datos en un objeto
 gy.lm <- lm(geyser$eruptions~ geyser$waiting)
 
 #Para ver los datos de lm usar "summary"
@@ -43,6 +49,8 @@ plot(geyser$waiting, geyser$eruptions,
      ylab= "Duración (min)",
      col="blue")
 abline(gy.lm, col = "red", lwd = 2)
+
+text (50,4, "y=-1.87+0.075*x")
 
 #Agregar en la tabla el valor predicho
 #"erutptions" son los valores observado y "predicho" son los valores predichos

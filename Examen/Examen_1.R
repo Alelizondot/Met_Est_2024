@@ -1,4 +1,4 @@
-#Exámen 1
+#Examen 1
 #Alejandra Elizondo Trejo
 #1847945
 
@@ -17,10 +17,11 @@ shapiro.test(parcelas$Diámetro)
 #promedio de DAP en parcelas A y B es de= 8.879
 mean(parcelas$Diámetro)
 
- 
+#boxplot
+boxplot(parcela_A$Diámetro, parcela_B$Diámetro) 
 
 #El valor de t (absoluto, es decir sin signo negativo) de la prueba es
-
+t.test(parcela_A$Diámetro, parcela_B$Diámetro )
 t.test(parcelas$Diámetro)
 
 #hacemos un subset de parcela A y otro de parcela B
@@ -35,4 +36,6 @@ parcela_B<- subset(parcelas, parcelas$Parcelas != "Parcela A")
 
 #sacamos media de DAP de parcelas B = 9.318
 mean(parcela_B$Diámetro)
+
+
 

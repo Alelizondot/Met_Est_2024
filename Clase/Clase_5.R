@@ -1,3 +1,8 @@
+#Clase 5
+#Alejandra Elizondo Trejo
+#1847945
+#23/09/2024
+
 #Prueba T de una muestra, muestras independientes
 #Realizar la comparación de una muestraexperimental vs una muestra teorética
 #importar datos de la compu y asignarlos al objeto semillas
