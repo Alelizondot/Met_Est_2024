@@ -28,7 +28,7 @@ Repositorio del curso de Métodos estadísticos Agosto 2024 del programa de Inge
 	+ Clase_7
 + Semana 13:
 	+ Clase_8
-+Semana 15:
++ Semana 15:
 	+ Examen_2
 	+ Clase_9
 
