@@ -5,7 +5,7 @@ Repositorio del curso de Métodos estadísticos Agosto 2024 del programa de Inge
 ## Contenido
 
 + Semana 1: Semana de introducción al curso Métodos Estadísticos.
-+ Sermana 2: Crear nuestra cuneta de Github (Alelizondot) así como el primer repositorio.
++ Semana 2: Crear nuestra cuneta de Github (Alelizondot) así como el primer repositorio.
 + Semana 3: 
 	+ Clase_1
 	+ Lab_1
