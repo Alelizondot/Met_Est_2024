@@ -1,10 +1,10 @@
 # :books: :evergreen_tree: Facultad de Ciencias Forestales
 # :bar_chart: Curso Métodos Estadísticos 
-# PIA
-# Alejandra Elizondo Trejo
- :evergreen_tree: :books:
-## Descripción: Repositorio
-:wave: ¡Bienvenido a mi repositorio del curso de Métodos estadísticos agosto 2024 del programa de Ingeniero Forestal! :smile: aquí encontraras scripts con análisis de datos usando RStudio. A continuación, una presentación de la estructura del repositorio:
+## Alejandra Elizondo Trejo - PIA
+
+## Descripción
+:wave: ¡Bienvenido a mi repositorio del curso de Métodos estadísticos agosto 2024 del programa de Ingeniero Forestal! Aquí encontraras scripts con análisis de datos usando RStudio :smile:. A continuación, una presentación de la estructura del repositorio:
+
 ## Estructura del repositorio:
 + **:file_folder: Clase**: Ejercicios realizados en clase. :man_technologist:
 + **:file_folder: Exámenes**: Exámenes aplicados durante el semestre. :page_with_curl:
@@ -18,38 +18,39 @@
 + :calendar: **Semana 2**: Crear nuestra cuneta de Github (Alelizondot) así como el primer repositorio.
 ---
 + :calendar: **Semana 3**: 
-	1. Clase_1 :man_technologist:
-	2. Lab_1 :clipboard:
-	3. Tarea_1 :notebook:
+	+ Clase_1 :man_technologist: :Creación de gráfico de barras barplot de uperficie (hectareas) reforestada.
+	+ Lab_1 :clipboard: :Operaciones con gastos de una personas y creación de gráfico.
+	+ Tarea_1 :notebook: :Operaciones con gastos de una personas y creación de gráfico, además de respuestas a 4 Problemas enfocados a la teoría 
 	---
 + :calendar: **Semana 4**:
-	+ Lab_2 :clipboard:
-	+ Tarea_2 :notebook:
+	+ Lab_2 :clipboard: :Usar datos obtenidos de internet y realizar operaciones con esas bases de datos.
+	+ Tarea_2 :notebook: :Uso de wich,sum, junto con la realización de histogramas.
 	---
 + :calendar: **Semana 5**: 
-	1. Clase_2 :man_technologist:
-	2. Clase_3 :man_technologist:
+	+ Clase_2 :man_technologist: :uso de subset, realización de boxplots junto con tapply.
+	+ Clase_3 :man_technologist: :aprender a usar base de datos csv.
 	---
 + :calendar: **Semana 6**: 
-	1. Clase_4 :man_technologist:
+	+ Clase_4 :man_technologist: :Uso de shapiro.test y bartlett.test.
 	---
 + :calendar: **Semana 8**:
-	1. Clase_5 :man_technologist:
-	2. Clase_5Parte2 :man_technologist:
-	3. Exámen_1 :page_with_curl:
+	+ Clase_5 :man_technologist: :Prueba T de muestras independientes
+	+ Clase_5Parte2 :man_technologist: :Prueba T de muestras dependientes.
+	+ Exámen_1 :page_with_curl:
 	---
 + :calendar: **Semana 11**:
-	1. Clase_6 :man_technologist:
+	+ Clase_6 :man_technologist: :2 Ejercicios usando prueba T.
 	---
 + :calendar: **Semana 12**:
-	1. Clase_7 :man_technologist:
+	+ Clase_7 :man_technologist: :Cuartetos de Anscombe y corrolelación.
 	---
 + :calendar: **Semana 13**:
-	1. Clase_8 :man_technologist:
+	+ Clase_8 :man_technologist: :regresión lineal con base de datos sobre erupciones de geyser junto con
+	el gráficado de la línea de tendencia central.
 	---
 + :calendar: **Semana 15**:
-	1. Examen_2 :page_with_curl:
-	2. Clase_9 :man_technologist:
+	+ Examen_2 :page_with_curl:
+	+ Clase_9 :man_technologist: :Analisis de varianza (ANOVA) y prueba de Tukey.
 	---
 + :calendar: **Semana 18**:
-	3. Examen_final :page_with_curl:
+	+ Examen_final :page_with_curl:
