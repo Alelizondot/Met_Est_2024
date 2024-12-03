@@ -1,9 +1,15 @@
-# :books: :evergreen_tree: Facultad de Ciencias Forestales
+# :books: :evergreen_tree: Facultad de Ciencias Forestales - U.A.N.L.
 # :bar_chart: Curso Métodos Estadísticos 
-## Alejandra Elizondo Trejo - PIA
+## Alejandra Elizondo Trejo
 
-## Descripción
-:wave: ¡Bienvenido a mi repositorio del curso de Métodos estadísticos agosto 2024 del programa de Ingeniero Forestal! Aquí encontraras scripts con análisis de datos usando RStudio :smile:. A continuación, una presentación de la estructura del repositorio:
+## Bienvenida al repositorio de Curso Métodos Estadísticos Agosto 2024 :graduation_cap:
+:wave: ¡Bienvenido a mi repositorio de Métodos Estadísticos Agosto 2024 del programa de Ingeniero Forestal! Aquí encontrarás scripts con análisis de datos usando RStudio :laptop:. A continuación, una breve descripción de los temás que encontrarás aquí:
+
++ **Shapiro.test y bartlett.test** :books:
++ **Pruebas T** :dart:
++ **Regresión Lineal** :chart_with_downwards_trend:
++ **Correlación** :link:
++ **Análisis de Varianza (ANOVA)** :chart_with_upwards_trend:
 
 ## Estructura del repositorio:
 + **:file_folder: Clase**: Ejercicios realizados en clase. :man_technologist:
@@ -24,7 +30,7 @@
 	---
 + :calendar: **Semana 4**:
 	+ *Lab_2* :clipboard: :Usar datos obtenidos de internet y realizar operaciones con esas bases de datos.
-	+ *Tarea_2* :notebook: :Uso de wich,sum, junto con la realización de histogramas.
+	+ *Tarea_2* :notebook: :Uso de wich, sum, junto con la realización de histogramas.
 	---
 + :calendar: **Semana 5**: 
 	+ *Clase_2* :man_technologist: :Uso de subset, realización de boxplots junto con tapply.
