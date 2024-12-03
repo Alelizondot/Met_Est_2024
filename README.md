@@ -11,7 +11,7 @@
 + **Correlación** :link:
 + **Análisis de Varianza (ANOVA)** :chart_with_upwards_trend:
 
-## Estructura del repositorio:
+## Estructura del repositorio
 + **📁 Clase**: Ejercicios realizados en clase. :man_technologist:
 + **:file_folder: Exámenes**: Exámenes aplicados durante el semestre. :page_with_curl:
 + **:file_folder: Laboratorios**: Laboratorios realizados durante el semestre :clipboard:
