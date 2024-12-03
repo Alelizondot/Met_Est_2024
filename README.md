@@ -3,7 +3,7 @@
 ## Alejandra Elizondo Trejo
 
 ## Bienvenida al repositorio de Curso Métodos Estadísticos Agosto 2024
-:wave: ¡Bienvenido a mi repositorio de Métodos Estadísticos Agosto 2024 del programa de Ingeniero Forestal! Aquí encontrarás scripts con análisis de datos usando RStudio :laptop:. A continuación, una breve descripción de los temás que encontrarás aquí:
+:wave: ¡Bienvenido a mi repositorio de Métodos Estadísticos Agosto 2024 del programa de Ingeniero Forestal! Aquí encontrarás scripts con análisis de datos usando RStudio 💻. A continuación, una breve descripción de los temás que encontrarás aquí:
 
 + **Shapiro.test y bartlett.test** :books:
 + **Pruebas T** :dart:
@@ -12,7 +12,7 @@
 + **Análisis de Varianza (ANOVA)** :chart_with_upwards_trend:
 
 ## Estructura del repositorio:
-+ **:file_folder: Clase**: Ejercicios realizados en clase. :man_technologist:
++ **📁 Clase**: Ejercicios realizados en clase. :man_technologist:
 + **:file_folder: Exámenes**: Exámenes aplicados durante el semestre. :page_with_curl:
 + **:file_folder: Laboratorios**: Laboratorios realizados durante el semestre :clipboard:
 + **:file_folder: Tareas**: Actividades asignadas durante el semestre. :notebook:
