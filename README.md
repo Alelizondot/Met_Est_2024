@@ -62,3 +62,6 @@
 	---
 + :calendar: **Semana 18**:
 	+ *Examen_final* :page_with_curl:
+---
+## Gráfica de contribuciones al repositorio
+![Contributors](https://github.com/user-attachments/assets/ffc453a1-420a-4e02-9f37-986de0b86ee2)
